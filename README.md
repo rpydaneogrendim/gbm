@@ -25,3 +25,5 @@
 #Görselleri de sağa tıklayarak kaydedebilirsiniz.
 
 #Hisse fiyatları İş Yatırım web sitesinden çekilmektedir.
+
+shiny::runGitHub("gbm","rpydaneogrendim")
