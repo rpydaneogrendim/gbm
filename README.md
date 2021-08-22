@@ -10,9 +10,7 @@
 
 #Gireceğim değerleri bilmiyorum derseniz bu aynı zamanda hisse hakkında fikir almak istediğiniz anlamına gelmektedir.
 
-#Bu seçeneğe tıkladığınızda Hisse ve Tarih Aralığı bilgisi gelecektir. Tarih aralığını seçerek hissenin o dönem aralığındaki beklenen getirisi ve standart sapmasına,
-
-#seçilen Hisse Bilgileri ekranından ulaşabilirsiniz. Buna ek olarak histogram ile getiri dağılımı da gösterilmiştir.
+#Bu seçeneğe tıkladığınızda Hisse ve Tarih Aralığı bilgisi gelecektir. Tarih aralığını seçerek hissenin o dönem aralığındaki beklenen getirisi ve standart sapmasına seçilen Hisse Bilgileri ekranından ulaşabilirsiniz. Buna ek olarak histogram ile getiri dağılımı da gösterilmiştir.
 
 #Fikir edindikten sonra simülasyon için bir başlangıç tarihi belirlemelisiniz.
 
