@@ -1,4 +1,4 @@
-my_packages <- c("shiny","shinydashboard","rjson","rvest","dplyr","magrittr","DT","lubridate","purrr","ggplot2")
+my_packages <- c("shiny","shinydashboard","rjson","rvest","dplyr","magrittr","DT","lubridate","purrr","ggplot2","tidyr")
 new_packages <- my_packages[!(my_packages %in% installed.packages()[,"Package"])]
 if(length(my_packages)){
   install.packages(my_packages)
